@@ -1,3 +1,7 @@
 abc 
 xyz
+<<<<<<< HEAD
 cmd
+=======
+lmn
+>>>>>>> 31c4b48336eb28decdf484236e76170ec254a91c
